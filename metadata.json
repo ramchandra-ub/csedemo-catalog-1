@@ -1,0 +1,13 @@
+{
+    "assetName": "catalog",
+    "description": "catalog-desc",
+    "topics": [
+        "ens-mathematics",
+        "catalog-math",
+        "ens-asset",
+        "ens-asset"
+    ],
+    "associations": [
+        "github/test_repo"
+    ]
+}
